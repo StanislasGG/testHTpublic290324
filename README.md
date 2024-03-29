@@ -1,1 +1,3 @@
 # testHTpublic290324
+aws_access_key_id = AKIAU262VON45YSNX63R
+aws_secret_access_key = 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
